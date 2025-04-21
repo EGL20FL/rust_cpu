@@ -1,10 +1,10 @@
-rustc filename.rs for see results of a code
+**rustc filename.rs for see results of a code**
 
-Few files for understanding core things. Why u do not organize all files in a project? Have a reason. 
+Few files for understanding **core** things. Why u do not organize all files in a project? Have a reason. 
 
-Ok Ok Okey
+Ok Ok **Okey**
 
-The point is to give understunding of shellcode executing in cpu. No water. Want to swim? Jump.
+The point is to give understunding of **shellcode** executing in cpu. No water. Want to swim? **Jump**.
 
 P.S. JOP - later? but soon
 
@@ -14,9 +14,9 @@ P.S. JOP - later? but soon
 4) then look **print_mem.rs** and u may see how does it looks like in memmory buffer
 5) and now once again look at **cpu.rs**
 
-**This scheme is not for everyone to understand but it my seeing of task**
+**This scheme is not for everyone to understand but it my seeing of task **
 
 **If you will use your intuition and search line of browser You will Love it Forever!**
 
-**Used material** of: sylvain@kerkour.fr Black Hat Rust and Rust in Action SYSTEMS PROGRAМMING CONCEPTS AND TECHNIQUES TIM McNAМARA
+**Used material** of: sylvain@kerkour.fr **Black Hat Rust** and **Rust in Action** SYSTEMS PROGRAМMING CONCEPTS AND TECHNIQUES TIM McNAМARA
 **Thanks for their work**
