@@ -3,7 +3,7 @@ use std::io::{self, Write};
 struct CPU {
     memory: [u8; 4096],
 }
-
+// example 0 8 ENTER 0FC 108 ENTER
 impl CPU {
     fn new() -> Self {
         CPU {
