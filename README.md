@@ -12,9 +12,9 @@ The point is to give understunding of shellcode executing in cpu. No water. Want
 4) then look print_mem.rs and u may see how does it looks like in memmory buffer
 5) and now once again look at cpu.rs
 
-This scheme is not for everyone to understand but it my seeing of task
+**This scheme is not for everyone to understand but it my seeing of task
 
-_ If you will use your intuition and search line of browser You will Love it Forever!_
+If you will use your intuition and search line of browser You will Love it Forever!**
 
 **Used material** of: sylvain@kerkour.fr Black Hat Rust and Rust in Action SYSTEMS PROGRAМMING CONCEPTS AND TECHNIQUES TIM McNAМARA
 Thanks for their work
