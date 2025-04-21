@@ -17,4 +17,4 @@ The point is to give understunding of shellcode executing in cpu. No water. Want
 **If you will use your intuition and search line of browser You will Love it Forever!**
 
 **Used material** of: sylvain@kerkour.fr Black Hat Rust and Rust in Action SYSTEMS PROGRAМMING CONCEPTS AND TECHNIQUES TIM McNAМARA
-Thanks for their work
+**Thanks for their work**
