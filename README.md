@@ -6,6 +6,7 @@ Ok Ok Okey
 
 The point is to give understunding of shellcode executing in cpu. No water. Want to swim? Jump. P.S. JOP - later? but soon
 
+1)shell.rs we see hexcode 
 
 Used material of: sylvain@kerkour.fr Black Hat Rust and Rust in Action SYSTEMS PROGRAМMING CONCEPTS AND TECHNIQUES TIM McNAМARA
 Thanks for their work
